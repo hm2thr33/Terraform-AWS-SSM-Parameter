@@ -1,0 +1,2 @@
+# https://github.com/mozilla/sops#47showing-diffs-in-cleartext-in-git
+*.json diff=sopsdiffer
